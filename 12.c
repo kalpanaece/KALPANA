@@ -11,6 +11,7 @@ rev=(rev*10) + (n%10);
 n/=10;
 }
 if(rev==num)
+{
 printf("%d is a palindrome",num);
 }
 else
