@@ -3,7 +3,7 @@ int main()
 {
 int i=1,x,n,ans=1;
 printf("enter x and power n /n");
-scanf("%d /n %d",&x&n);
+scanf("%d /n %d",&x,&n);
 while(i<=n)
 {
 ans=ans*x;
