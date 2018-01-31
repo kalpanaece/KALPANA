@@ -8,4 +8,13 @@ printf("enter %d integers \n",size);
 for(c=0;c<<size;c++)
 scanf("%d",&array[c]);
 minumum=array[0];
-f0r(
+f0r(i=1;1<=N;I++)
+{
+  if(maximum<array[i])
+  {
+    maximum=array[i];
+  }
+}
+  printf("%d",maximum);
+  return 0;
+}
