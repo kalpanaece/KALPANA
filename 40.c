@@ -7,7 +7,7 @@ int main()
 	a=0;
 	b=1;
 	c=0;
-	printf("fibonaci length \n");
+	printf("fibonaci print \n");
 	for(i=1;i<=terms;i++)
 	{
 		printf("%d",c);
