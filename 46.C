@@ -2,7 +2,7 @@
 void main()
 {
 	int N=123;
-	scanf("%d",N);
+	scanf("%d",&N);
 	N++;
 	printf("%d",N);
 }
