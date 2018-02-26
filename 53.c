@@ -11,5 +11,6 @@ int main()
         a /= 10;
     }   
     printf("%d",sum);
+    return 0;
     
 }
