@@ -1,16 +1,14 @@
 #include<stdio.h>
 int main()
 {
-	int a;
-	printf("enter the number");
-	scanf("%d",&a);
-	if(a/2=100)
+	int a=49;
+	if(49%2==0)
 	{
-		printf("given number is prime");
+		printf("given number is not prime");
 	}
 	else
 	{
-		printf("given number is not prime");
+		printf("given number is prime");
 	}
 	return 0;
 }
